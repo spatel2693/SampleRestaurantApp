@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_select_cusine"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#38882a"
+    tools:context="com.example.SampleRestaurantApp.SampleRestaurantApp.SelectCusine">
+
+    <TextView
+        android:text="@string/cuisine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cuisine"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="72dp"
+        android:textSize="30sp"
+        android:textColor="@android:color/background_light"
+        android:textStyle="normal|bold" />
+
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:checkedButton="@+id/radBut_mexican"
+        android:id="@+id/selected_cuisine_rg"
+        android:layout_below="@+id/cuisine"
+        android:layout_centerHorizontal="true">
+
+        <RadioButton
+            android:text="@string/mexican_cuisine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radBut_mexican"
+            android:layout_weight="1"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+
+        <RadioButton
+            android:text="@string/indian_cuisine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radBut_indian"
+            android:layout_weight="1"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+
+        <RadioButton
+            android:text="@string/italian_cuisine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radBut_italian"
+            android:layout_weight="1"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+    </RadioGroup>
+
+    <Button
+        android:text="@string/selected_cusine_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:id="@+id/selected_cuisine_button"
+        android:layout_below="@+id/selected_cuisine_rg"
+        android:layout_alignEnd="@+id/cuisine" />
+</RelativeLayout>

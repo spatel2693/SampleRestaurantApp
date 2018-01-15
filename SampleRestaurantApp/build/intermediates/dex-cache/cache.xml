@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_1104a1e27e75b144a475d962e3a4d27b336cd32f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_3b512cc90b9478f0edfb51757810d341b42c7526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1410eb4c8e22719dbe9be2bb5ed92a6700647c33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_62d748233b1f2f9b2ea350ffcd6f510a2846a7a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_9c84e584208366b48c3965f034f5bc15357ca051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2869f7d804f2860af1d912f39e8b8e1c4fd3b2cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_f40374700ee595afbb5e3b5187f3ff4dc1587e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_d586c7a511a958062345d3510c3b5a9ffb73ab3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_f97712b7731f02a697e31fb3e9324ce0097053e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_6ceec6f33c93ed4c0aeabf8411953e168f44ee4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_befb214ea68f0636fbf306149d0f700050b6f83a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b319624354b47a46a580738a47c69fab9fee3913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2494522b660b2f32162160191d26460d5c077a08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_60291ced05091e74d2dfee8a877af07e43f8a08f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\sagar\Desktop\SampleRestaurantApp\SampleRestaurantApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_fc456503826e12cfc224a31fbbf38d18538bd28a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Two Knives and One Fork</string>
+    <string name="title"> two knives and one fork</string>
+    <string name="enter_button">ENTER</string>
+    <string name="enter_button_desc">Enter Button</string>
+    <string name="cuisine">Cuisine</string>
+    <string name="mexican_cuisine">Mexican</string>
+    <string name="indian_cuisine">Indian</string>
+    <string name="italian_cuisine">Italian</string>
+    <string name="selected_cusine_button">Proceed</string>
+
+    <string-array name="Title_Indian">
+        <item>Indian Restaurant 1</item>;
+        <item>Indian Restaurant 2</item>;
+        <item>Indian Restaurant 3</item>;
+        <item>Indian Restaurant 4</item>;
+        <item>Indian Restaurant 5</item>;
+
+    </string-array>
+    <string-array name="Desc_Indian">
+        <item>Restaurant_Description 1</item>;
+        <item>Restaurant_Description 2</item>;
+        <item>Restaurant_Description 3</item>;
+        <item>Restaurant_Description 4</item>;
+        <item>Restaurant_Description 5</item>;
+
+    </string-array>
+    <string-array name="Title_Mexican">
+        <item>Mexican Restaurant 1</item>;
+        <item>Mexican Restaurant 2</item>;
+        <item>Mexican Restaurant 3</item>;
+        <item>Mexican Restaurant 4</item>;
+        <item>Mexican Restaurant 5</item>;
+
+    </string-array>
+    <string-array name="Desc_Mexican">
+        <item>Restuarant_Description 1</item>;
+        <item>Restuarant_Description 2</item>;
+        <item>Restuarant_Description 3</item>;
+        <item>Restuarant_Description 4</item>;
+        <item>Restuarant_Description 5</item>;
+
+    </string-array>
+    <string-array name="Title_Italian">
+        <item>Italian Restaurant 1</item>;
+        <item>Italian Restaurant 2</item>;
+        <item>Italian Restaurant 3</item>;
+        <item>Italian Restaurant 4</item>;
+        <item>Italian Restaurant 5</item>;
+
+    </string-array>
+
+    <string-array name="Desc_Italian">
+        <item>Restuarant_Description 1</item>;
+        <item>Restuarant_Description 2</item>;
+        <item>Restuarant_Description 3</item>;
+        <item>Restuarant_Description 4</item>;
+        <item>Restuarant_Description 5</item>;
+
+    </string-array>
+
+    <string-array name="Mexican_Res1">
+        <item>Mexican Res1 Dish 1</item>;
+        <item>Mexican Res1 Dish 2</item>;
+        <item>Mexican Res1 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Mexican_Res2">
+        <item>Mexican Res2 Dish 1</item>;
+        <item>Mexican Res2 Dish 2</item>;
+        <item>Mexican Res2 Dish 3</item>;
+    </string-array>
+    <string-array name="Mexican_Res3">
+        <item>Mexican Res3 Dish 1</item>;
+        <item>Mexican Res3 Dish 2</item>;
+        <item>Mexican Res3 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Mexican_Res4">
+        <item>Mexican Res4 Dish 1</item>;
+        <item>Mexican Res4 Dish 2</item>;
+        <item>Mexican Res4 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Mexican_Res5">
+        <item>Mexican Res5 Dish 1</item>;
+        <item>Mexican Res5 Dish 2</item>;
+        <item>Mexican Res5 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Indian_Res1">
+        <item>Indian Res1 Dish 1</item>;
+        <item>Indian Res1 Dish 2</item>;
+        <item>Indian Res1 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Indian_Res2">
+        <item>Indian Res2 Dish 1</item>;
+        <item>Indian Res2Dish 2</item>;
+        <item>Indian Res2 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Indian_Res3">
+        <item>Indian Res3 Dish 1</item>;
+        <item>Indian Res3 Dish 2</item>;
+        <item>Indian Res3 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Indian_Res4">
+        <item>Indian Res4 Dish 1</item>;
+        <item>Indian Res4 Dish 2</item>;
+        <item>Indian Res4 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Indian_Res5">
+        <item>Indian Res5 Dish 1</item>;
+        <item>Indian Res5 Dish 2</item>;
+        <item>Indian Res5 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Italian_Res1">
+        <item>Italian Res1 Dish 1</item>;
+        <item>Italian Res1 Dish 2</item>;
+        <item>Italian Res1 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Italian_Res2">
+        <item>Italian Res2 Dish 1</item>;
+        <item>Italian Res2Dish 2</item>;
+        <item>Italian Res2 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Italian_Res3">
+        <item>Italian Res3 Dish 1</item>;
+        <item>Italian Res3 Dish 2</item>;
+        <item>Italian Res3 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Italian_Res4">
+        <item>Italian Res4 Dish 1</item>;
+        <item>Italian Res4 Dish 2</item>;
+        <item>Italian Res4 Dish 3</item>;
+    </string-array>
+
+    <string-array name="Italian_Res5">
+        <item>Italian Res5 Dish 1</item>;
+        <item>Italian Res5 Dish 2</item>;
+        <item>Italian Res5 Dish 3</item>;
+    </string-array>
+    <string name="selected_item_button">Proceed</string>
+    <string name="cus_name">Full Name:</string>
+    <string name="cus_address">Address:</string>
+    <string name="items_ordered">Items Ordered:</string>
+    <string name="pay">Pay</string>
+    <string name="Credit_Card_Number">Credit Card Number</string>
+    <string name="date">Date</string>
+    <string name="CCV">CCV</string>
+</resources>
